@@ -1,0 +1,35 @@
+.parent{
+	position: absolute;
+	height: 800px;
+	width: 804px;
+	left: 20% ;
+}
+.pane1{
+	float: left;
+	width: 61%;
+	height: 804px;
+}
+.pane2{
+	float: right;
+	width: 36%;
+	height: 804px;
+}
+.cob{
+	font-weight: bold;
+	font-family: helvetica;
+}
+.edu{
+	color: blue;
+	font-weight: bold;
+	font-size: 90%;
+	font-family: helvetica;
+	margin-top: 10%;
+}
+.sect{
+	margin-bottom: 36.5%;
+}
+.skills {
+	list-style-type: none;
+	margin-left: -13%;
+	font-size: 95%;
+}
